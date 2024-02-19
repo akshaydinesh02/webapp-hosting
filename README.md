@@ -1,7 +1,5 @@
 # webapp-hosting
- A full stack web app that can be used to deploy and host your react projects online
-
-A full stack web app that let's you host your react applications online.
+ A full stack web app that lets you deploy and host your react projects online
 
 There's 3 parts in this project
   1. Webapp upload service - This is used to upload (clone) files to the server from github repo
